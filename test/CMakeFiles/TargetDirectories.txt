@@ -1,0 +1,3 @@
+/Users/yuguanglin/Desktop/小学期科研/OpenCV/test/CMakeFiles/rebuild_cache.dir
+/Users/yuguanglin/Desktop/小学期科研/OpenCV/test/CMakeFiles/edit_cache.dir
+/Users/yuguanglin/Desktop/小学期科研/OpenCV/test/CMakeFiles/test.dir
